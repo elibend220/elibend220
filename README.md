@@ -1,17 +1,45 @@
-# Hi, I'm Eliyahu Ben David 
-​Founder & Lead Architect of NEUS
-Pioneering AI-Native Security Architectures.
+# Eliyahu Ben David
+**Founder and Lead Architect of Neus AI platform | Pioneering AI Native Security Architectures**
 
-​About Me
-​I am a AI-Native System Architect focused on the emerging field of AI-Augmented Development.
+![Platform](https://img.shields.io/badge/Platform-Neus_AI_platform-blue)
+![Neus Security](https://img.shields.io/badge/Security-Neus_Security_V.3-blue)
+![Neus Guard](https://img.shields.io/badge/Guard-Neus_Guard_v.5-blue)
+![Neus Matrix](https://img.shields.io/badge/Matrix-Neus_Matrix_v.1-blue)
+![Neus LLM](https://img.shields.io/badge/LLM-Neus_LLM_v.1-blue)
+![Project Scale](https://img.shields.io/badge/Scale-700k%2B_Lines_of_Code-blue)
+![Status](https://img.shields.io/badge/Status-Independent_R%26D-green)
 
-Instead of traditional coding, I specialize in Semantic Orchestration—leveraging advanced LLMs to engineer complex, mission-critical infrastructure at high velocity. My expertise lies in closing the gap between architectural vision and executable code.
+### About Me
+I am an AI Native System Architect focused on the emerging field of AI Augmented Development. 
 
-​*Current Project:* NEUS Smart Security
-​I am architecting NEUS, a multi-agent security system built using a Human-in-the-Loop AI workflow.
+Instead of traditional manual coding, I specialize in Semantic Orchestration leveraging advanced LLMs to engineer complex, mission critical infrastructure at high velocity. My expertise lies in closing the gap between architectural vision and executable code.
 
-​*The Methodology:* Rapid prototyping and deployment of high-performance modules (Go/Python) using AI-driven code generation.
+### Neus AI platform (Independent R&D)
+The Neus AI platform is an integrated ecosystem comprising over 700,000 lines of proprietary code. It serves as a comprehensive foundation for autonomous security, orchestration, and intelligence.
 
-*​The System:* A Sovereign "Semantic Firewall" that protects RAG workflows from adversarial attacks.
+* **Neus Security V.3**
+The core architectural framework providing heavy duty autonomous system protection and deep threat mitigation logic.
 
-​*Tech Stack:* Orchestrated ecosystem combining Golang (Sentinel) and Python (Overmind), deployed via automated CI/CD pipelines.
+* **Neus Guard V.5**
+A lightweight intelligent sensor designed for high efficiency. It operates as a standalone entity or integrates seamlessly into the broader platform for real time observability and proactive threat detection.
+
+* **Neus Matrix V.1 (SaaS)**
+A high scale platform for infrastructure orchestration and the management of complex autonomous agent workflows.
+
+* **Neus LLM V.1**
+A proprietary language model architecture optimized for high precision semantic analysis and security operations.
+
+### Technical Methodology
+The platform utilizes a Human in the Loop (HITL) workflow to ensure surgical precision over autonomous execution layers.
+
+* **Sovereign Semantic Firewall**
+Engineered to protect RAG workflows from adversarial prompt injections and data poisoning.
+
+* **Multi Language Orchestration**
+Seamless integration of Golang for system performance and Python for advanced logic and AI capabilities.
+
+* **Technological Stack and Observability**
+Deep system observability is a core component of my methodology, utilizing kernel level introspection via eBPF as part of a broader, diverse technological stack. This is combined with formal logic verification using Z3 Prover to ensure absolute systemic integrity.
+
+### Vision
+The code is a commodity; the architecture is the sovereign asset.
