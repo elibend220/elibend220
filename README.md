@@ -1,81 +1,30 @@
 # Eliyahu Ben David
-**Founder and Lead Architect of Neus AI platform | Pioneering AI Native Security Architectures**
+**AI Native System Architect | Independent R&D**
 
-
-
-![Platform](https://img.shields.io/badge/Platform-Neus_AI_platform-blue)
-
-
-
-
-![Neus Security](https://img.shields.io/badge/Security-Neus_Security_6.8-blue)
-
-
-
-
-![Neus Guard](https://img.shields.io/badge/Guard-Neus_Guard_v.5-blue)
-
-
-
-
-![Neus Matrix](https://img.shields.io/badge/Matrix-Neus_Matrix_v.1-blue)
-
-
-
-
-![Neus LLM](https://img.shields.io/badge/LLM-Neus_LLM_v.1-blue)
-
-
-
-
-![Neus Trader](https://img.shields.io/badge/Trader-Neus_Trader_v1-blue)
-
-
-
-
-![Codebase](https://img.shields.io/badge/Codebase-Large_Scale_Proprietary-blue)
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eli_Ben--David-blue?logo=linkedin)](https://www.linkedin.com/in/eli-ben-david-081966150/)
 ![Status](https://img.shields.io/badge/Status-Independent_R%26D-green)
 
-
+---
 
 ### About Me
-I am an AI Native System Architect focused on the emerging field of AI Augmented Development.
+I'm Eliyahu (Eli) Ben David — a system architect and independent researcher focused on AI-augmented development and autonomous infrastructure engineering.
 
-Instead of traditional manual coding, I specialize in Semantic Orchestration leveraging advanced LLMs to engineer complex, mission critical infrastructure at high velocity. My expertise lies in closin[...]
+My work centers on designing and building complex, mission-critical systems where architecture is the core asset. I specialize in semantic orchestration, leveraging advanced language models to engineer large-scale infrastructure at high velocity — bridging the gap between formal system design and modern AI capabilities.
 
-### Neus AI platform (Independent R&D)
-The Neus AI platform is an integrated ecosystem representing a large scale, proprietary codebase developed independently over three years. It serves as a comprehensive foundation for autonomous securi[...]
+I am passionate about autonomous systems, security engineering, observability, and the intersection of human oversight with intelligent automation.
 
-* **Neus Security 6.8**
-The core architectural framework providing heavy duty autonomous system protection and deep threat mitigation logic.
+### Areas of Expertise
+* **AI-Augmented Development** — using LLMs as first-class engineering tools to architect and implement complex systems
+* **System & Security Architecture** — designing autonomous, resilient, and observable infrastructure
+* **Semantic Orchestration** — coordinating multi-agent workflows and AI-driven pipelines
+* **Technological Stack** — Golang, Python, eBPF, RAG pipelines, local LLM execution, formal logic
 
-* **Neus Guard V.5**
-A lightweight intelligent sensor designed for high efficiency. It operates as a standalone entity or integrates seamlessly into the broader platform for real time observability and proactive de[...]
+### Approach
+I believe the code is a commodity; the architecture is the sovereign asset.
 
-* **Neus Matrix V.1**
-A high scale platform for infrastructure orchestration and the management of complex autonomous agent workflows, deployable within isolated, on premise, and air gapped environments.
+My methodology prioritizes human-on-the-loop governance, keeping human oversight at the center of autonomous execution — ensuring systems remain auditable, controllable, and aligned with intent.
 
-* **Neus LLM V.1**
-An optimized local execution layer for open source language models, tuned for high precision semantic analysis and security operations without external API dependency.
+### Independent R&D
+Over the past several years I have been engaged in independent research and development in the areas of AI-native security, autonomous agent orchestration, and infrastructure automation.
 
-### Technical Methodology
-The platform utilizes a Human on the Loop (HOTL) governance model, ensuring continuous human oversight and intervention capability over autonomous execution layers.
-
-* **Sovereign Semantic Firewall**
-Engineered to protect RAG workflows from adversarial prompt injections and data poisoning.
-
-* **Multi Language Orchestration**
-Seamless integration of Golang for system performance and Python for advanced logic and AI capabilities.
-
-* **Technological Stack and Observability**
-Deep system observability is a core component of my methodology, utilizing kernel level introspection via eBPF as part of a broader, diverse technological stack. This is combined with formal logic[...]
-
-### Vision
-The code is a commodity; the architecture is the sovereign asset.
-
-### Project Repository
-github.com/NEUS-DEVELOPMENT
+For project repositories, see: [github.com/NEUS-DEVELOPMENT](https://github.com/NEUS-DEVELOPMENT)
