@@ -28,6 +28,11 @@
 
 
 
+![Neus Trader](https://img.shields.io/badge/Trader-Neus_Trader_v1-blue)
+
+
+
+
 ![Codebase](https://img.shields.io/badge/Codebase-Large_Scale_Proprietary-blue)
 
 
@@ -40,16 +45,16 @@
 ### About Me
 I am an AI Native System Architect focused on the emerging field of AI Augmented Development.
 
-Instead of traditional manual coding, I specialize in Semantic Orchestration leveraging advanced LLMs to engineer complex, mission critical infrastructure at high velocity. My expertise lies in closing the gap between architectural vision and executable code.
+Instead of traditional manual coding, I specialize in Semantic Orchestration leveraging advanced LLMs to engineer complex, mission critical infrastructure at high velocity. My expertise lies in closin[...]
 
 ### Neus AI platform (Independent R&D)
-The Neus AI platform is an integrated ecosystem representing a large scale, proprietary codebase developed independently over three years. It serves as a comprehensive foundation for autonomous security, orchestration, and intelligence. Codebase integrity and creation timeline are independently verifiable via GPG signed, OpenTimestamps anchored archives.
+The Neus AI platform is an integrated ecosystem representing a large scale, proprietary codebase developed independently over three years. It serves as a comprehensive foundation for autonomous securi[...]
 
 * **Neus Security 6.8**
 The core architectural framework providing heavy duty autonomous system protection and deep threat mitigation logic.
 
 * **Neus Guard V.5**
-A lightweight intelligent sensor designed for high efficiency. It operates as a standalone entity or integrates seamlessly into the broader platform for real time observability and proactive threat detection.
+A lightweight intelligent sensor designed for high efficiency. It operates as a standalone entity or integrates seamlessly into the broader platform for real time observability and proactive de[...]
 
 * **Neus Matrix V.1**
 A high scale platform for infrastructure orchestration and the management of complex autonomous agent workflows, deployable within isolated, on premise, and air gapped environments.
@@ -67,7 +72,7 @@ Engineered to protect RAG workflows from adversarial prompt injections and data 
 Seamless integration of Golang for system performance and Python for advanced logic and AI capabilities.
 
 * **Technological Stack and Observability**
-Deep system observability is a core component of my methodology, utilizing kernel level introspection via eBPF as part of a broader, diverse technological stack. This is combined with formal logic verification using Z3 Prover to ensure absolute systemic integrity.
+Deep system observability is a core component of my methodology, utilizing kernel level introspection via eBPF as part of a broader, diverse technological stack. This is combined with formal logic[...]
 
 ### Vision
 The code is a commodity; the architecture is the sovereign asset.
