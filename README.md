@@ -1,43 +1,15 @@
-# Eliyahu Ben David
+# Eli (Eliyahu) Ben David
 **Founder and Lead Architect of Neus AI platform | Pioneering AI Native Security Architectures**
 
 
 
 ![Platform](https://img.shields.io/badge/Platform-Neus_AI_platform-blue)
-
-
-
-
 ![Neus Security](https://img.shields.io/badge/Security-Neus_Security_6.8-blue)
-
-
-
-
 ![Neus Guard](https://img.shields.io/badge/Guard-Neus_Guard_v.5-blue)
-
-
-
-
 ![Neus Matrix](https://img.shields.io/badge/Matrix-Neus_Matrix_v.1-blue)
-
-
-
-
 ![Neus LLM](https://img.shields.io/badge/LLM-Neus_LLM_v.1-blue)
-
-
-
-
 ![Neus Trader](https://img.shields.io/badge/Trader-Neus_Trader_v1-blue)
-
-
-
-
 ![Codebase](https://img.shields.io/badge/Codebase-Large_Scale_Proprietary-blue)
-
-
-
-
 ![Status](https://img.shields.io/badge/Status-Independent_R%26D-green)
 
 
